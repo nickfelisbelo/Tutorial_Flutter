@@ -22,10 +22,10 @@
         - **Seu usuário** (Exemplo: Felisbelo)
 
         Ou pule para o passo 3 e no endereço que estiver lá apague o que está depois do seu nome de usuário ``/Downloads/...``
-    2. Clique nesse endereço e o copie:
+    2. Clique nesse endereço e o copie:  
        ![Endereço](./assets/endereco.png)
-        O endereço q aparecerá deverá ser algo como ``C:\Users\Seu usuário``
-    3. Depois de copiar o endereço(CTRL + C)
+       O endereço q aparecerá deverá ser algo como ``C:\Users\Seu usuário``
+    4. Depois de copiar o endereço(CTRL + C)
         - Vá onde você baixou o ``arquivo.zip``(provavelmente em Downloads)
         - Clique com o botão direito no ``arquivo.zip`` e selecione a opção ***Extrair tudo***
         - Ao clicar em ***Extrir tudo*** cole o endereço que você copiou no campo mostrado abaixo:
