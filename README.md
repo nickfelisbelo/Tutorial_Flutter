@@ -1,9 +1,9 @@
 # Manual de instalação e Configuração do Flutter
 ## **Passos**
-- **[Baixar Flutter]()**
-- **[Exportar Arquivo.zip]()**
-- **[Editar Variáveis de Ambiente]()**
-- **[Testar]()**
+- **Baixar Flutter**
+- **Exportar Arquivo.zip**
+- **Editar Variáveis de Ambiente**
+- **Testar**
 
 ---
 ## **Baixar Flutter**
