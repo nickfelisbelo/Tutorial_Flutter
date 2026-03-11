@@ -23,7 +23,7 @@
 
         Ou pule para o passo 3 e no endereço que estiver lá apague o que está depois do seu nome de usuário ``/Downloads/...``
     2. Clique nesse endereço e o copie:
-        ![Endereço](./assets/endereco.png)
+       ![Endereço](./assets/endereco.png)
         O endereço q aparecerá deverá ser algo como ``C:\Users\Seu usuário``
     3. Depois de copiar o endereço(CTRL + C)
         - Vá onde você baixou o ``arquivo.zip``(provavelmente em Downloads)
@@ -49,7 +49,7 @@
 - Nas ***Variáveis do sistema*** selecione **"Path"** e **Editar...**
     ![Variáveis do Sistema](./assets/variaveis%20do%20sistema.png)
 - Clique em **Novo**
-    ![novo](./assets/novo.png)
+  ![novo](./assets/novo.png)
 - Cole o endereço ``C:\Users\Seu usuário\flutter\bin`` que você copiou
 
 ---
